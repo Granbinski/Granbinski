@@ -33,8 +33,3 @@ I believe the best line of code is the one that comes with a smile. Let's spread
   <img src="https://github-readme-stats.vercel.app/api?username=Granbinski&show_icons=true" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Granbinski/Granbinski/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Granbinski/Granbinski/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Granbinski/Granbinski/output/github-contribution-grid-snake.svg">
-</picture>
