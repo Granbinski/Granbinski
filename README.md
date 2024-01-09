@@ -21,7 +21,7 @@ I believe the best line of code is the one that comes with a smile. Let's spread
 
 **Let's code the future! 🚀**
 
-<picture>
+/* <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Granbinski&show_icons=true&theme=dark"
     media="(prefers-color-scheme:dark)"
@@ -33,3 +33,4 @@ I believe the best line of code is the one that comes with a smile. Let's spread
   <img src="https://github-readme-stats.vercel.app/api?username=Granbinski&show_icons=true" />
 </picture>
 
+*/
